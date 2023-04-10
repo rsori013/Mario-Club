@@ -1,0 +1,26 @@
+h1{
+    color:orange;
+    background-color:aqua;
+    font-size:20px;
+    text-decoration:underline;
+    font-family:Tahoma,Arial,sans-serif;
+    text-align:center;
+}
+p{
+    color:yellowgreen;
+    text-align:center;
+    line-height:30px;
+    letter-spacing:3px;
+}
+
+ ul{
+    /* border:4px solid crimson; */
+    border-bottom:4px dotted crimson;
+    border-left:8px dashed cyan;
+ }
+
+ li{
+    list-style-type: square;
+    /* text-shadow:2px 2px black; */
+    text-shadow:2px 2px #e9e9e9;
+ }

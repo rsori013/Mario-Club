@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+
+p.error{
+    color:aqua;
+}
+
+p.sucess{
+    color: yellowgreen;
+}
+
+#content{
+    background-color: rgb(233, 228, 228);
+    padding:2x;
+}
+a[href*= "le"]{
+    background-color: blueviolet;
+}
